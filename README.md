@@ -11,7 +11,7 @@ This respository contains all the projects for the Data Scientist Nanodegree Pro
 
 ## 1. Predict Bike Sharing Demand with AutoGluon<a name="project1"></a>
 
-![bikesharing](https://github.com/keithpink/udacity_machine_learning_engineer/blob/main/bike_sharing/bikeshare.webp)
+![bikesharing](https://github.com/keithpink/udacity_machine_learning_engineer/blob/main/bike_sharing/bikeshare.png)
 
 Using bike sharing systems, people are able rent a bike from a one location and return it to a different place on an as-needed basis. Therefore, Bike sharing systems  function as a sensor network, which can be used for studying mobility in a city.
 
